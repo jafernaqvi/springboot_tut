@@ -1,0 +1,1 @@
+insert into alien(id,name,lang) values(1,'test','java');

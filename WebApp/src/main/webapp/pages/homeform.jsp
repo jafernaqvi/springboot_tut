@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-    this is a test by ${obj.id}, ${obj.name}, ${obj.lang}
+	<form action="addAlien">
+		<input type="text" name="id"><br>
+		<input type="text" name="name"><br>
+		<input type="submit"><br>
+	</form>
 </body>
 </html>
